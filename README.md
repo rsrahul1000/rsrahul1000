@@ -23,10 +23,11 @@
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rsrahul1000&show_icons=true&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsrahul1000&layout=compact&theme=radical&exclude_repo=Diabetic-Retinopathy-Detection,Udacity-Deep-Learning-Nanodegree&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![counter](https://enjs0hszc123wk9.m.pipedream.net) hipsters and nerds come here :laughing:
+![counter](https://enjs0hszc123wk9.m.pipedream.net) hipsters and nerds come here :yum: 
 
 
 <!--
+:laughing:
 **rsrahul1000/rsrahul1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsrahul1000&layout=compact&theme=radical&exclude_repo=Diabetic-Retinopathy-Detection&hide=javascript)]
 Here are some ideas to get you started:
