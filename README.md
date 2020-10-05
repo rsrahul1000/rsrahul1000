@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rsrahul1000&show_icons=true&theme=radical)
+
+![counter](https://enjs0hszc123wk9.m.pipedream.net)
+
 <!--
 **rsrahul1000/rsrahul1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
