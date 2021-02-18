@@ -1,6 +1,6 @@
 ### Hi there, I'm Rahul Sharma 👋
 
-- 🔭 I’m currently working on **Spring and Flutter**
+- 🔭 I’m currently working on **React, Spring and Flutter**
 - 🌱 I’m currently learning **React and Competitive Programming**
 - 👯 I’m looking to collaborate on **Open Source** and projects on **Java, Flask, Flutter, React and Deep Learning**
 - 🤔 I’m looking for help with **Competitive Programming**
